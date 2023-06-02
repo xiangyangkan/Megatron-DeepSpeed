@@ -13,3 +13,7 @@ dist/
 
 # AML workspace config file
 *config.json
+
+# pycharm
+**/.idea/
+.idea
